@@ -1,0 +1,27 @@
+
+
+
+.buy-btn:hover {
+    background-color: #40a617!important;
+}
+
+#hero {
+    padding: 150px 0;
+    background-image: url(./online\ library\ \(1\).jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.space tr td {
+    padding-top:50px!important;
+}
+
+.hover {
+    transition: 0.5s ease!important;
+}
+.hover:hover {
+    transition: 0.5s ease!important;
+    box-shadow: 0 0px 10px 2px #0009!important;
+}
+
